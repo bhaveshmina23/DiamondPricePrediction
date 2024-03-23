@@ -1,5 +1,10 @@
 pandas
+pandas
+numpy 
+flask
+pandas 
 numpy 
 flask
 
--e .
+
+-e.
